@@ -1,0 +1,7 @@
+C:\Users\Usuario\Documents\Carpeta C#\tareaprogramacion_1\tareaprogramacion_1\bin\Debug\tareaprogramacion_1.exe.config
+C:\Users\Usuario\Documents\Carpeta C#\tareaprogramacion_1\tareaprogramacion_1\bin\Debug\tareaprogramacion_1.exe
+C:\Users\Usuario\Documents\Carpeta C#\tareaprogramacion_1\tareaprogramacion_1\bin\Debug\tareaprogramacion_1.pdb
+C:\Users\Usuario\Documents\Carpeta C#\tareaprogramacion_1\tareaprogramacion_1\obj\Debug\tareaprogramacion_1.csproj.AssemblyReference.cache
+C:\Users\Usuario\Documents\Carpeta C#\tareaprogramacion_1\tareaprogramacion_1\obj\Debug\tareaprogramacion_1.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\Carpeta C#\tareaprogramacion_1\tareaprogramacion_1\obj\Debug\tareaprogramacion_1.exe
+C:\Users\Usuario\Documents\Carpeta C#\tareaprogramacion_1\tareaprogramacion_1\obj\Debug\tareaprogramacion_1.pdb
